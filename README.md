@@ -1,2 +1,2 @@
-# smart-milk-collection-app
+# smart-milk-collection-app using Flutter
 coming soon
